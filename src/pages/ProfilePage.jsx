@@ -1,6 +1,6 @@
 
 // FILE: src/pages/UserProfile.jsx
-export function UserProfile() {
+export function ProfilePage() {
   return (
     <div className="p-6">
       <h2 className="text-2xl font-bold mb-2">Your Profile</h2>
